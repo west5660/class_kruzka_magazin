@@ -1,1 +1,1 @@
-# class_kruzka_magazin
+# hw33python_class_kruzka_magazin
