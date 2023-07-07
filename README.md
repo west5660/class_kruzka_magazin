@@ -1,0 +1,1 @@
+# class_kruzka_magazin
